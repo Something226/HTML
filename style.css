@@ -157,7 +157,7 @@ img {
 }
 
 .Listdiv li {
-  list-style-type: disc;
+  list-style-type: none;
 }
 
 .Listdiv a {
