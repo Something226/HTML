@@ -140,6 +140,7 @@ img {
 
 .imgdiv p {
   text-align: center;
+  max-width: 100%;
 }
 
 .imgclass {
